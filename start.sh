@@ -1,5 +1,7 @@
 #!/bin/bash
 
+npm install
+
 docker pull training4developers/node
 
 docker run -i -t \
